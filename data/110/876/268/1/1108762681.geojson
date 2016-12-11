@@ -9,7 +9,7 @@
     "geom:bbox":"-77.04802,38.79164,-76.96196,38.876881",
     "geom:latitude":38.840149,
     "geom:longitude":-77.006653,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":22434781.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Ward 8",
     "uscensus:sldust":"008",
     "uscensus:statefp":"11",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688741
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486185,
     "wof:geomhash":"6e23ba0ea4301f0be87862ca21c95dae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688741
+        }
+    ],
     "wof:id":1108762681,
     "wof:lastmodified":1481486185,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688741,
     "wof:repo":"whosonfirst-data-constituency-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
